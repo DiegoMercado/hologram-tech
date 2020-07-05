@@ -1,0 +1,16 @@
+body{
+    transition:.60s; 
+    background: #0e0e0e; }
+.black{
+    background:#EEEEEE;
+    color:rgb(97, 97, 97);
+}
+.black:hover h3 {
+    color: black;
+}
+
+.title{
+    color:#b60000;
+}
+button{margin: 25px; border: 0px; padding: 15px; cursor: pointer;}
+
